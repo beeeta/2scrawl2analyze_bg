@@ -1,1 +1,1 @@
-practice scrapy,to scrawler to analyze data
+practice scrapy,to scrawler to analyze data.
